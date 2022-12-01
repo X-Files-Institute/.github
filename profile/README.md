@@ -8,7 +8,7 @@
 
 ## Current Languages
 
-<img src="https://raw.githubusercontent.com/ocaml/ocaml-logo/master/Colour/PNG/colour-icon.png" height="150px" width="150px" />
-<img src="https://rust-lang.org/logos/rust-logo-256x256.png" height="150px" width="150px" />
+<img src="https://raw.githubusercontent.com/ocaml/ocaml-logo/master/Colour/PNG/colour-icon.png" height="50px" width="50px" />
+<img src="https://rust-lang.org/logos/rust-logo-256x256.png" height="50px" width="50px" />
 
 </div>
