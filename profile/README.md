@@ -9,6 +9,6 @@
 ## Current Languages
 
 <img src="https://raw.githubusercontent.com/ocaml/ocaml-logo/master/Colour/PNG/colour-icon.png" height="150px" width="150px" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="150px" width="150px" />
+<img src="https://rust-lang.org/logos/rust-logo-256x256.png" height="150px" width="150px" />
 
 </div>
