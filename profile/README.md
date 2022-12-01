@@ -2,7 +2,7 @@
 
 #  X-Files-Institute
 
-<img src="https://avatars.githubusercontent.com/u/119553376?s=96&v=4" />
+<img src="https://avatars.githubusercontent.com/u/119553376?s=200&v=4" />
 
 <p>We are a purely open source organization with the purpose of exploring the field of computer science and open source.</p>
 
