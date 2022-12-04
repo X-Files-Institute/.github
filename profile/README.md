@@ -7,7 +7,7 @@
 We are a purely open source organization with the purpose of exploring the field of computer science and open source.
 
 ## Join us
-You only need to pay attention to this organization, and you will receive an invitation to join after a period of time (probably within a day)
+Send an email to our mailing list or join our telegram group, and you will receive an invitation to join after a period of time (probably within a day)
 
 ## Current Languages Teams
 **In this organization, you can choose to join different language teams and develop different language projects.**
